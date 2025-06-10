@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun  9 03:15:13 2025
-
 @author: gideonafriyie
 """
 
@@ -21,7 +16,6 @@ while len(primes) < 1000:
         primes.append(num)
     num += 1
 
-# Save to CSV file
 import csv
 
 with open('first_1000_primes.csv', 'w', newline='') as f:
@@ -30,4 +24,4 @@ with open('first_1000_primes.csv', 'w', newline='') as f:
     for p in primes:
         writer.writerow([p])
 
-print("✅ First 1,000 primes saved to 'first_1000_primes.csv'")
+print("First 1,000 primes saved to 'first_1000_primes.csv'")

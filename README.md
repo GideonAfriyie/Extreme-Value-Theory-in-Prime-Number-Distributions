@@ -1,4 +1,5 @@
-# Prime Gap Patterns — A Statistical and Computational Study
+# Extreme Value Theory Analysis of Prime Gap Distributions: Statistical Validation of Cramér’s Conjecture and Heavy-Tailed Behavior: 
+Prime Gap Patterns — A Statistical and Computational Study
 
 ### 📌 Overview
 
